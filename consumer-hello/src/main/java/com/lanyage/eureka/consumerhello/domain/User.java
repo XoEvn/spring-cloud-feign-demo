@@ -7,6 +7,7 @@ public class User {
     private String afk;
     private String a;
     private String b;
+    private String c;
     public User() {
     }
 
