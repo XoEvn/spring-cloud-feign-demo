@@ -5,6 +5,7 @@ public class User {
     private String username;
     private String password;
     private String afk;
+    private String a;
     private String b;
     public User() {
     }
